@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room 250 </p>
-    <p>CEMES-CNRS</p>
-	<p>29 Rue Jeanne Marvig</p>
-    <p>Toulouse, France 31055</p>
+    <p> Room 250 </p>
+    <p> CEMES-CNRS </p>
+	<p> 29 Rue Jeanne Marvig </p>
+    <p> Toulouse, France 31055 </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
