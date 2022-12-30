@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Materials Chemistry,Uppsala University, Sweden <br> CNRS Postdoctral Researcher @ <a href='https://www.cemes.fr/SINanO-Surfaces-Interfaces-et-Nano-Objets?'>SiNano group<a>, CEMES-CNRS, Toulouse, France
+subtitle: Ph.D. Materials Chemistry, Uppsala University, Sweden <br> CNRS Postdoctral Researcher @ <a href='https://www.cemes.fr/SINanO-Surfaces-Interfaces-et-Nano-Objets?'>SiNano group<a>, CEMES-CNRS, Toulouse, France  
 
 profile:
   align: right
@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a computational material scientist with extensive experience  in materials modeling and scientific software development. My area of research focuses on the development and application of machine learning methods to accelerate materials discovery. I strive to work in a place where I could utilize my problem-solving, programming, and scientific knowledge to solve complex real-life challenges.
+I am a computational material scientist with extensive experience  in materials modeling and scientific software development. My area of research focuses on the development and application of machine learning methods to accelerate materials discovery. 
 
 
