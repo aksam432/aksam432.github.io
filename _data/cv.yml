@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Akshay Krishna Ammothum Kandy
     - name: Date of Birth
-      value: 14th March 1879
+      value: 6th January 1994
     - name: Languages
-      value: English, German
+      value: English, Malayalam
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Uppsala University
+      year: 2016-2021
       description:
         - Description 1.
         - Description 2.
