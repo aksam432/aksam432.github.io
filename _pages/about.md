@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Materials Chemistry from Uppsala University, Sweden
+subtitle: Ph.D. Materials Chemistry,Uppsala University, Sweden <br>
+CNRS Postdoctral Researcher @ <a href='https://www.cemes.fr/SINanO-Surfaces-Interfaces-et-Nano-Objets?'> SiNano group <a>, CEMES-CNRS, Toulouse, France
 
 profile:
   align: right
