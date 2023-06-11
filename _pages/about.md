@@ -18,9 +18,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal website! I am an interdisciplinary researcher with extensive experience in materials modeling and scientific software development. My passion lies at the intersection of materials science and machine learning, where I explore innovative approaches to accelerate the process of materials discovery.
-
-With a strong background in materials science and a deep understanding of machine learning techniques, I specialize in developing and applying cutting-edge algorithms to uncover novel materials with enhanced properties. From energy storage to drug design, my goal is to contribute to advancements in various fields by harnessing the power of machine learning.
-
-On this website, you will find detailed information about my research projects, software development endeavors, and contributions to the exciting field of materials science and machine learning. 
+Welcome to my personal website! I am an interdisciplinary researcher with extensive experience in **materials modeling** and **scientific software development**. My passion lies at the intersection of materials science and machine learning, where I explore innovative approaches to accelerate the process of materials discovery. With a strong background in materials science and a deep understanding of machine learning techniques, I specialize in developing and applying cutting-edge algorithms to uncover novel materials with enhanced properties. From energy storage to drug design, my goal is to contribute to advancements in various fields by harnessing the power of machine learning.
 
